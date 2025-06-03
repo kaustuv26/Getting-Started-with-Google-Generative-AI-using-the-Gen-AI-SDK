@@ -56,11 +56,10 @@ The `Gen AI SDK.py` script demonstrates the following capabilities of the Google
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-    cd YOUR_REPOSITORY_NAME # Navigate into the cloned directory
+    git clone [https://github.com/kaustuv26/Getting-Started-with-Google-Generative-AI-using-the-Gen-AI-SDK.git](https://github.com/kaustuv26/Getting-Started-with-Google-Generative-AI-using-the-Gen-AI-SDK.git)
+    cd Getting-Started-with-Google-Generative-AI-using-the-Gen-AI-SDK # Navigate into the cloned directory
     ```
-    (Replace `YOUR_USERNAME` and `YOUR_REPOSITORY_NAME` with your actual GitHub details.)
-
+   
 2.  **Create a Python virtual environment (recommended):**
     ```bash
     python3 -m venv venv
